@@ -13,5 +13,11 @@ git clone git://github.com/FortAwesome/Font-Awesome View/Themed/Flatly/webroot/f
 make
 ```
 
+## Manual installation
+
+Download and extract file inside app/View/Themed/
+
+
+
 Note:
 You *need* a less compiler, eg: `lessc` or `recess`. 
