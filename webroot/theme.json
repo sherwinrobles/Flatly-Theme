@@ -1,0 +1,19 @@
+{
+	"name" : "Flatly",
+	"description" : "Port of Flatly theme from http://bootswatch.com/flatly/ for Croogo",
+	"screenshot" : "screenshot.png",
+
+	"author" : "Sherwin Robles",
+	"authorEmail" : "sherwinrobles@gmail.com",
+	"authorUrl" : "http://github.com/sherwinrobles/Flatly-Theme",
+
+	"menus" : [
+		"main",
+		"footer"
+	],
+
+	"regions" : [
+		"right",
+		"region1"
+	]
+}

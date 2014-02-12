@@ -1,0 +1,38 @@
+
+
+div.block-body > ul > li {
+  margin-left: 40px;
+  list-style: none;
+}
+
+div.vocabulary > ul > li {
+  margin-left: 40px;
+  list-style: none;
+}
+
+div.node-list > ul > li {
+  margin-left: 40px;
+  list-style: none;
+}
+
+div.list > ul > li > a {
+  margin-left: 20px;
+  list-style: none !important;
+  color: #ffffff !important;
+}
+
+div.list-first > ul > li {
+  margin-left: 20px;
+  list-style: none !important;
+}
+
+div.list-first > ul > li > a {
+  color: #ffffff !important;
+}
+
+@media (max-width: 991px) {
+  .page-header {
+    text-align: center !important;
+  }
+
+}
