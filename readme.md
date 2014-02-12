@@ -8,8 +8,6 @@ for Croogo
 ```
 cd $APP
 git clone git://github.com/sherwinrobles/Flatly-Theme View/Themed/Flatly
-git clone git://github.com/twitter/bootstrap/ View/Themed/Flatly/webroot/bootstrap
-git clone git://github.com/FortAwesome/Font-Awesome View/Themed/Flatly/webroot/fontAwesome
 make
 ```
 
