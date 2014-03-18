@@ -1,5 +1,4 @@
 
-
 div.block-body > ul > li {
   margin-left: 40px;
   list-style: none;
@@ -28,6 +27,10 @@ div.list-first > ul > li {
 
 div.list-first > ul > li > a {
   color: #ffffff !important;
+}
+
+.page-header {
+   margin: 70px !important;
 }
 
 @media (max-width: 991px) {
